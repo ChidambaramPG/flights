@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="feature-section">
-        <h1 class="site-name">Flights</h1>
+        <h1 class="site-name">Find Flights</h1>
     </div>
   </section>
 </template>
